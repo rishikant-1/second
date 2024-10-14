@@ -64,3 +64,8 @@ delete commands
 #git commit
 #git pull origin main
 #git rm fileName
+
+yadi file merge ho rahi ho aur ek dusre se conflict kr rhi ho to aap mannualy karo comman use karo {aur jb dusre file se same branch pr push krte hai to apas me file conflict hoti to isko resolve krne ke liye ye command run kr skte ho }
+
+#git pull origin main --allow-unrelated-histories
+#git push origin main
