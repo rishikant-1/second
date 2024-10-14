@@ -55,3 +55,12 @@ if you should to merge branches app us branch me jao jisme merge karna chahate h
 
 git merge <branch name>
 
+agar galti se file push karne ke baad file direct delete ho jati hai to ye command run karo 
+
+#git add -u
+
+delete commands
+
+#git commit
+#git pull origin main
+#git rm fileName
